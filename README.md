@@ -1,11 +1,9 @@
 ## Seven-Segment-Display-PIC16F877A
 
 Here are the tasks and smaller projects involving the 7-segment display. All three smaller tasks (projects) are briefly described.
-
 ## Microcontroller - 7 - Segment Display the digits from 0 to 9 and in reverse
 
 This C and assembly code for a microcontroller enables displaying numbers on a 7-segment display. (Flowcode)
-
 ## Features
 
 - **Initialization**: Configures necessary registers for operation.
@@ -15,7 +13,6 @@ This C and assembly code for a microcontroller enables displaying numbers on a 7
 The program continuously repeats this process. An interrupt routine is defined but not implemented.
 
 <br><br>
-
 
 ## 7-Segment Display Counter (0-9)
 
