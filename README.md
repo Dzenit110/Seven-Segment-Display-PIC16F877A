@@ -12,7 +12,7 @@ This C and assembly code for a microcontroller enables displaying numbers on a 7
 
 The program continuously repeats this process. An interrupt routine is defined but not implemented.
 
-<br><br>
+<br>
 
 ## 7-Segment Display Counter (0-9)
 
@@ -26,7 +26,7 @@ This C code for a microcontroller implements a simple counter displayed on a 7-s
 
 The program creates a simple up-counter that cycles between 0 and 9 on the 7-segment display.
 
-<br><br>
+<br>
 
 ## 7-Segment Display Up/Down Counter With Up and Down Buttons
 
@@ -42,7 +42,7 @@ This C code for a microcontroller implements an up/down counter displayed on a 7
 
 This program allows for interactive counting within the range of 0 to 9, controlled by user input.
 
-<br><br>
+<br>
 
 ## User Interface Examples
 
