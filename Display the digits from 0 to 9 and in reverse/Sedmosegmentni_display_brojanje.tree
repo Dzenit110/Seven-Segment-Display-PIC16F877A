@@ -1,0 +1,22 @@
+// SourceBoost Linker Call Tree Dump
+
+_startup:"NoSourceFile",line = 0
+{  main:"E:\Skola\Mirkoracunari\Display 7 od 1 do 9 i obrnuto\Sedmosegmentni_display_brojanje.c",line = 342
+  {    FCD_led7seg0_ShowDigit:"E:\Skola\Mirkoracunari\Display 7 od 1 do 9 i obrnuto\Sedmosegmentni_display_brojanje.c",line = 160
+    {      __rem_8_8:"E:\Prg\compiler.trunk\picantc\libc\div.c",line = 203
+      {      }      __rom_get:"NoSourceFile",line = 0
+      {      }    }    delay_s:"NoSourceFile",line = 0
+    {      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }    }    FCD_led7seg0_ShowDigit:"E:\Skola\Mirkoracunari\Display 7 od 1 do 9 i obrnuto\Sedmosegmentni_display_brojanje.c",line = 160
+    {      __rem_8_8:"E:\Prg\compiler.trunk\picantc\libc\div.c",line = 203
+      {      }      __rom_get:"NoSourceFile",line = 0
+      {      }    }    delay_s:"NoSourceFile",line = 0
+    {      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }    }  }}interrupt:"E:\Skola\Mirkoracunari\Display 7 od 1 do 9 i obrnuto\Sedmosegmentni_display_brojanje.c",line = 416
+{}

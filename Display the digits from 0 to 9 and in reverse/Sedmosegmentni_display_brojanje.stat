@@ -1,0 +1,15 @@
+// SourceBoost Linker Function Resource Usage Dump
+
+#GLOBAL:"global",line = 0,ram = 37.0,rom = 0;
+__rem_8_8(unsigned char,unsigned char):"E:\Prg\compiler.trunk\picantc\libc\div.c",line = 206,ram = 5.0,rom = 17;
+FCD_led7seg0_ShowDigit(unsigned char,unsigned char):"E:\Skola\Mirkoracunari\Display 7 od 1 do 9 i obrnuto\Sedmosegmentni_display_brojanje.c",line = 163,ram = 3.0,rom = 112;
+main(void):"E:\Skola\Mirkoracunari\Display 7 od 1 do 9 i obrnuto\Sedmosegmentni_display_brojanje.c",line = 345,ram = 0.0,rom = 39;
+interrupt(void):"E:\Skola\Mirkoracunari\Display 7 od 1 do 9 i obrnuto\Sedmosegmentni_display_brojanje.c",line = 418,ram = 0.0,rom = 11;
+delay_ms(unsigned char):"NoSourceFile",line = 0,ram = 0.0,rom = 24;
+delay_s(unsigned char):"NoSourceFile",line = 0,ram = 1.0,rom = 15;
+__rom_get(unsigned char,unsigned char):"NoSourceFile",line = 0,ram = 4.0,rom = 22;
+_startup(void):"NoSourceFile",line = 0,ram = 0.0,rom = 42;
+#HEAP_BLOCK: 0, 272, 111;
+#HEAP_BLOCK: 1, 400, 96;
+#HEAP_BLOCK: 2, 160, 80;
+#HEAP_BLOCK: 3, 78, 34;
