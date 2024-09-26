@@ -1,0 +1,14 @@
+// SourceBoost Linker Call Tree Dump
+
+_startup:"NoSourceFile",line = 0
+{  main:"E:\Skola\Mirkoracunari\Sedmosegmentni displey automatski\Sedmosegmentni_display_automatski.c",line = 343
+  {    FCD_led7seg0_ShowDigit:"E:\Skola\Mirkoracunari\Sedmosegmentni displey automatski\Sedmosegmentni_display_automatski.c",line = 160
+    {      __rem_8_8:"E:\Prg\compiler.trunk\picantc\libc\div.c",line = 203
+      {      }      __rom_get:"NoSourceFile",line = 0
+      {      }    }    delay_s:"NoSourceFile",line = 0
+    {      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }      delay_ms:"NoSourceFile",line = 0
+      {      }    }  }}interrupt:"E:\Skola\Mirkoracunari\Sedmosegmentni displey automatski\Sedmosegmentni_display_automatski.c",line = 399
+{}
