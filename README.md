@@ -4,6 +4,9 @@ Here are the tasks and smaller projects involving the 7-segment display. All thr
 ## Microcontroller - 7 - Segment Display the digits from 0 to 9 and in reverse
 
 This C and assembly code for a microcontroller enables displaying numbers on a 7-segment display. (Flowcode)
+
+<br>
+
 ## Features
 
 - **Initialization**: Configures necessary registers for operation.
