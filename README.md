@@ -49,33 +49,36 @@ This program allows for interactive counting within the range of 0 to 9, control
 
 ## User Interface Examples
 
-<img width="730" alt="seg1" src="https://github.com/user-attachments/assets/8f15943a-1dfc-4189-aa21-2b8f2c5c75cb">
-<br>
-Figure 1  Segment Display the digits from 0 to 9 and in reverse (Flowcode - Simulation)
+<p align="center">
+  <img width="730" alt="seg1" src="https://github.com/user-attachments/assets/8f15943a-1dfc-4189-aa21-2b8f2c5c75cb">
+  <br>
+  <strong>Figure 1</strong> Segment Display showing digits from 0 to 9 and in reverse (Flowcode - Simulation)
+</p>
 
 <br><br>
 
-<img width="771" alt="seg2" src="https://github.com/user-attachments/assets/e5315dac-d6a0-4399-8166-a19b308a15f5">
-
-<br>
-
-Figure 2  Segment Display the digits from 0 to 9 and in reverse, display implementation of further counting (Display Counter)
-
-<br><br>
-
-<img width="772" alt="rucno1" src="https://github.com/user-attachments/assets/49bb63d6-937e-4ca8-9bb5-4c58fc2f3ca5">
-
-<br>
-
-Figure 3  Up/down counter displayed on a 7-Segment Display (Flowcode)
+<p align="center">
+  <img width="771" alt="seg2" src="https://github.com/user-attachments/assets/e5315dac-d6a0-4399-8166-a19b308a15f5">
+  <br>
+  <strong>Figure 2</strong> Segment Display showing digits from 0 to 9 and in reverse, with display implementation of further counting (Display Counter)
+</p>
 
 <br><br>
 
-<img width="794" alt="ruc2" src="https://github.com/user-attachments/assets/ff475f81-cc3e-4ec2-9eab-3dbfe00503e8">
+<p align="center">
+  <img width="772" alt="rucno1" src="https://github.com/user-attachments/assets/49bb63d6-937e-4ca8-9bb5-4c58fc2f3ca5">
+  <br>
+  <strong>Figure 3</strong> Up/Down counter displayed on a 7-Segment Display (Flowcode)
+</p>
 
-<br>
+<br><br>
 
-Figure 4 Up/Down Counter displayed on a 7-Segment Display (Flowcode) simulation display
+<p align="center">
+  <img width="794" alt="ruc2" src="https://github.com/user-attachments/assets/ff475f81-cc3e-4ec2-9eab-3dbfe00503e8">
+  <br>
+  <strong>Figure 4</strong> Up/Down Counter displayed on a 7-Segment Display (Flowcode) simulation display
+</p>
+
 
 <br>
 
