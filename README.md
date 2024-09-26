@@ -16,7 +16,7 @@ The program continuously repeats this process. An interrupt routine is defined b
 
 ## 7-Segment Display Counter (0-9)
 
-This C code for a microcontroller implements a simple counter displayed on a 7-segment display.
+This C and assembly code for a microcontroller implements a simple counter displayed on a 7-segment display.
 
 ## Functionality
 
@@ -30,7 +30,7 @@ The program creates a simple up-counter that cycles between 0 and 9 on the 7-seg
 
 ## 7-Segment Display Up/Down Counter With Up and Down Buttons
 
-This C code for a microcontroller implements an up/down counter displayed on a 7-segment display.
+This C and assembly code for a microcontroller implements an up/down counter displayed on a 7-segment display.
 
 ## Functionality
 
