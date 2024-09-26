@@ -1,0 +1,21 @@
+// SourceBoost Linker Call Tree Dump
+
+_startup:"NoSourceFile",line = 0
+{  main:"E:\Mirkoracunari\Sedmo segmentni displej sa Up i Down\Sedmosegmentni_display.c",line = 345
+  {    FCD_led7seg0_ShowDigit:"E:\Mirkoracunari\Sedmo segmentni displej sa Up i Down\Sedmosegmentni_display.c",line = 162
+    {      __rem_8_8:"E:\Prg\compiler.trunk\picantc\libc\div.c",line = 203
+      {      }      __rom_get:"NoSourceFile",line = 0
+      {      }    }    FCD_led7seg0_ShowDigit:"E:\Mirkoracunari\Sedmo segmentni displej sa Up i Down\Sedmosegmentni_display.c",line = 162
+    {      __rem_8_8:"E:\Prg\compiler.trunk\picantc\libc\div.c",line = 203
+      {      }      __rom_get:"NoSourceFile",line = 0
+      {      }    }    FCD_led7seg0_ShowDigit:"E:\Mirkoracunari\Sedmo segmentni displej sa Up i Down\Sedmosegmentni_display.c",line = 162
+    {      __rem_8_8:"E:\Prg\compiler.trunk\picantc\libc\div.c",line = 203
+      {      }      __rom_get:"NoSourceFile",line = 0
+      {      }    }    FCD_led7seg0_ShowDigit:"E:\Mirkoracunari\Sedmo segmentni displej sa Up i Down\Sedmosegmentni_display.c",line = 162
+    {      __rem_8_8:"E:\Prg\compiler.trunk\picantc\libc\div.c",line = 203
+      {      }      __rom_get:"NoSourceFile",line = 0
+      {      }    }    FCD_led7seg0_ShowDigit:"E:\Mirkoracunari\Sedmo segmentni displej sa Up i Down\Sedmosegmentni_display.c",line = 162
+    {      __rem_8_8:"E:\Prg\compiler.trunk\picantc\libc\div.c",line = 203
+      {      }      __rom_get:"NoSourceFile",line = 0
+      {      }    }  }}interrupt:"E:\Mirkoracunari\Sedmo segmentni displej sa Up i Down\Sedmosegmentni_display.c",line = 502
+{}
