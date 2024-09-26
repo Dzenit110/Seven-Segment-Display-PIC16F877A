@@ -77,9 +77,7 @@ Figure 3  Up/down counter displayed on a 7-Segment Display (Flowcode)
 
 Figure 4 Up/Down Counter displayed on a 7-Segment Display (Flowcode) simulation display
 
-
-
-<br><br>
+<br>
 
 ## 🧰 Languages & Tools 
 
